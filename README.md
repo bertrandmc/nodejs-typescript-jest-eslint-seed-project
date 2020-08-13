@@ -24,7 +24,7 @@ For more information please read this https://medium.com/@paul_irish/debugging-n
 
 2. `npm run dev` or `npm run dev:inspect` to start developing.
 
-3. Run tests with `npm test` or `npm run test:watch` for watch mode.
+3. `npm test` or `npm run test:watch` for testing.
 
 4. `npm run lint` for linting.
 
